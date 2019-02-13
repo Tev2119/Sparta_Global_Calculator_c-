@@ -1,0 +1,7 @@
+C:\Users\tech-w93a.LAPTOP-IR0H8TM3\engineering26\week5\calculator_c#\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\tech-w93a.LAPTOP-IR0H8TM3\engineering26\week5\calculator_c#\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\tech-w93a.LAPTOP-IR0H8TM3\engineering26\week5\calculator_c#\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\tech-w93a.LAPTOP-IR0H8TM3\engineering26\week5\calculator_c#\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\tech-w93a.LAPTOP-IR0H8TM3\engineering26\week5\calculator_c#\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\tech-w93a.LAPTOP-IR0H8TM3\engineering26\week5\calculator_c#\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\tech-w93a.LAPTOP-IR0H8TM3\engineering26\week5\calculator_c#\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
